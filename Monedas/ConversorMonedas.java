@@ -17,7 +17,7 @@ public class ConversorMonedas {
     // URL base de la API
     static final String URL_BASE = "https://v6.exchangerate-api.com/v6/" + API_KEY;
 
-    public static void main(String[] args) {
+    public static void main( String [] args) {
 
         //
 

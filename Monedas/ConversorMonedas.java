@@ -17,9 +17,9 @@ public class ConversorMonedas {
     // URL base de la API
     static final String URL_BASE = "https://v6.exchangerate-api.com/v6/" + API_KEY;
 
-    public static void main( String [] args) {
+    public static void main(String [] args) {
 
-        //
+        //no se porque aparece la imgen de arriba, intente sacarla pero no se pudo :(
 
         // Scanner para leer lo que escribe el usuario en la consola
         Scanner scanner = new Scanner(System.in);

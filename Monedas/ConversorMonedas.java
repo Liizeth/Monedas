@@ -19,6 +19,8 @@ public class ConversorMonedas {
 
     public static void main(String[] args) {
 
+        //
+
         // Scanner para leer lo que escribe el usuario en la consola
         Scanner scanner = new Scanner(System.in);
 
